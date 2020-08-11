@@ -1,27 +1,27 @@
 {
     "about":{
 		"name": "REUBEN ALLIK",
-        "title": "Boston College, Graduating Senior",
+        "title": "Recent Graduate of Boston College",
         "homepageImage": "Assets/homepageImage.png",
         "profilePhoto": "Assets/headshot3.png",
         "email": "allik@bc.edu",
-        "currentAddress": "Brighton, MA, 02135",
+        "currentAddress": "Natick, MA, 01760",
         "currentResume": "Assets/Resume8.11.pdf",
         "linkedInLink": "https://www.linkedin.com/in/reuben-allik/",
         "gitHubLink": "https://github.com/rallik",
-        "homepageBlurb": "Hello! I'm a senior at Boston College, studying Economics, Computer Science, and Marketing. Currently, I'm seeking employment in an Analytics, UX/UI, or a Front End Development Role.",
+        "homepageBlurb": "Hello! I'm a recent graduate of Boston College where I studied Economics, Computer Science, and Marketing. Currently, I'm seeking employment in an Analytics or Front End Development Role.",
         "description": {
-            "p1": "Reuben Allik is a senior at Boston College majoring in Economics, with double minors in Computer Science and Marketing, and is currently seeking employment in an Analytics, UX/UI, or a Front End Development Role.",
+            "p1": "Reuben Allik is a recent graduate of Boston College with an Economics major along with double minors in Computer Science and Marketing. He is currently seeking employment in an Analytics or a Front End Development Role.",
 
-            "p2": "For his final undergraduate semester, Reuben is conducting Natural Lanaguage Processing research on review-based, online platforms and the detection of fake reviews. Professionally, Reuben is working in both Classroom Technology Support, under BC's Media Technology Services department, and for Professor Linda Salisbury in CSOM's Marketing Department as a Teaching Assistant for Marketing Analytics and Customer Research. He also contributes as a Research Assistant, helping with UX/UI design for consumer research survey material and with data cleaning.",
+            "p2": "For his final undergraduate semester, Reuben conducted Natural Lanaguage Processing research on review-based, online platforms and the detection of fake reviews. Professionally, Reuben worked in both Classroom Technology Support, under BC's Media Technology Services department, and for Professor Linda Salisbury in CSOM's Marketing Department as a Teaching Assistant for Marketing Analytics and Customer Research. He also contributed as a Research Assistant, helping with UX/UI design for consumer research survey material and with data cleaning.",
 
-            "p3": "Outside of the professional and academic relm, Reuben is a close-defenseman on the BC Men's Club Lacrosse team, a member of the BC Hillel Executive board, and a fellow with the Miller Center's Boston Interfaith Leadership Initiative. Reuben curates the social media pages for both BC organizations and manages film operations for the lacrosse team."
+            "p3": "Outside of the professional and academic relm, Reuben was a close-defenseman on the BC Men's Club Lacrosse team, a member of the BC Hillel Executive board, and a fellow with the Miller Center's Boston Interfaith Leadership Initiative. Reuben curated the social media pages for both BC organizations and managed film operations for the lacrosse team."
         }
     },
     
 	"news":[
 		{
-			"event": "Boston College Commencement",
+			"event": "Boston College Commencement - Postponed",
 			"date": "May 18th, 2020"
         },
         {
