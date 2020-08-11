@@ -1,0 +1,212 @@
+{
+    "about":{
+		"name": "REUBEN ALLIK",
+        "title": "Boston College, Graduating Senior",
+        "homepageImage": "Assets/homepageImage.png",
+        "profilePhoto": "Assets/headshot3.png",
+        "email": "allik@bc.edu",
+        "currentAddress": "Brighton, MA, 02135",
+        "currentResume": "Assets/Resume2.2.pdf",
+        "linkedInLink": "https://www.linkedin.com/in/reuben-allik/",
+        "gitHubLink": "https://github.com/rallik",
+        "homepageBlurb": "Hello! I'm a senior at Boston College, studying Economics, Computer Science, and Marketing. Currently, I'm seeking employment in an Analytics, UX/UI, or a Front End Development Role.",
+        "description": {
+            "p1": "Reuben Allik is a senior at Boston College majoring in Economics, with double minors in Computer Science and Marketing, and is currently seeking employment in an Analytics, UX/UI, or a Front End Development Role.",
+
+            "p2": "For his final undergraduate semester, Reuben is conducting Natural Lanaguage Processing research on review-based, online platforms and the detection of fake reviews. Professionally, Reuben is working in both Classroom Technology Support, under BC's Media Technology Services department, and for Professor Linda Salisbury in CSOM's Marketing Department as a Teaching Assistant for Marketing Analytics and Customer Research. He also contributes as a Research Assistant, helping with UX/UI design for consumer research survey material and with data cleaning.",
+
+            "p3": "Outside of the professional and academic relm, Reuben is a close-defenseman on the BC Men's Club Lacrosse team, a member of the BC Hillel Executive board, and a fellow with the Miller Center's Boston Interfaith Leadership Initiative. Reuben curates the social media pages for both BC organizations and manages film operations for the lacrosse team."
+        }
+    },
+    
+	"news":[
+		{
+			"event": "Boston College Commencement",
+			"date": "May 18th, 2020"
+        },
+        {
+			"event": "BC Men's Lacrosse home game vs. Temple @ 2pm",
+			"date": "April 19th, 2020"
+        },
+        {
+			"event": "BC Men's Lacrosse home game vs. UNH @ 2pm",
+			"date": "March 22nd, 2020"
+		},
+		{
+			"event": "Boston Interfaith Leadership Initiative retreat, Dedham, MA.",
+			"date": "Februrary 22nd-23rd, 2020"
+        },
+        {
+			"event": "Began classes for final semester of undergraduate degree.",
+			"date": "January 13th, 2020"
+        },
+        {
+			"event": "Started '52 Weeks, 52 IPA's' Project.",
+			"date": "January 1st, 2020"
+        },
+        {
+			"event": "Traveled to New Orleans, Louisiana.",
+			"date": "December 19th-26th, 2019"
+        }
+    ],
+    "bookshelf": [ 
+        {
+		"bookTitle":"Benjamin Franklin: An American Life",
+        "bookAuthor":"Walter Issacson",
+        "coverPhoto":"Assets/benfranklin.png"
+        },
+        {
+        "bookTitle":"Hyperfocus: How to Manage Your Attention in a World of Distraction",
+        "bookAuthor":"Chris Bailey",
+        "coverPhoto":"Assets/hyperfocus.png"
+        },
+        {
+        "bookTitle":"Shoe Dog",
+        "bookAuthor":"Phil Knight",
+        "coverPhoto":"Assets/shoedog.png"
+        },
+        {
+        "bookTitle":"The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers",
+        "bookAuthor":"Ben Horowitz",
+        "coverPhoto":"Assets/hardthings.png"
+        }
+    ],
+	"projects":[
+		{
+			"id":"printers",
+            "title": "Improving Printing Wait-Times @ BC",
+            "indexDescription": "Final project for Design Thinking elective, taught by Kristie Diskenson.",
+            "indexMaterials": [
+                { 
+                "label": "Inspiration Phase",
+                "path": "https://www.designthinkingbc.com/fall-2019/opinion-prologue-to-a-neuralink-replacement-for-printing-getting-rid-of-the-wait"
+                },
+                { 
+                "label": "Ideation Phase",
+                "path": "https://www.designthinkingbc.com/fall-2019/printing-bc-chapter-2-the-map"
+                }
+            ],
+            "indexImage": {
+                    "image": "Assets/printerfinal.png",
+                    "orientation":"index-image-vertical"
+                },
+            "tags":["Design Thinking"],
+            "detailsTitle": "Design Thinking Final Project: BC's Printing System",
+            "detailsImages": [
+                {
+                    "image": "Assets/PrinterCollage.png",
+                    "orientation": "index-image-horizontal",
+                    "caption": " ",
+                    "subCaption": " "
+                },
+                {
+                    "image": "Assets/printerfinal.png",
+                    "orientation": "printers-final-image",
+                    "caption": " ",
+                    "subCaption": " "
+                }
+            ],
+            "detailsDescription": [
+                {
+                    "text": "This project was presented as the final for a Design Thinking elective in CSOM, taught by Kristie Dickenson. As the course progressed through the human-centered design process, we would complete the parallel section of our project. I chose to tackle printing at BC because procrastination with this process often contributes to students being late for classes. Also, while some majors print much more than others, the majority of BC students need to print out papers, articles, homework, etc."
+                },
+                {
+                    "text": "After considering the project's budgetary constraints, I realized that I would need to address student awarness instead of attempting to hold a full scale assult on procrastination, scheduling, and choice of workspace. The three prototypes below are all meant to build awareness, whether for wait-times at specific printers or where printers are located on campus."
+                },
+                {
+                    "text": "For my final version of the project, I used elements from a few of my prototypes. The map shows all of the printers on main campus (along with 2000 Comm Ave.) and is acompanied by a key and a QR code that directs a user to the printing homepage on BC's website. The use of a large, bold san-sarif with heavy contrast was intented to provide a clean read."
+                }
+            ]
+        },
+
+        {
+            "id":"introphoto",
+            "title": "Color in the Cords",
+            "indexDescription": "Final project for Intro to Digital Photography, taught by Greer Muldowney.",
+            "indexMaterials": null,
+            "indexImage": {
+                    "image": "Assets/cords5.png",
+                    "orientation": "index-image-horizontal"
+            },
+            "tags":["Photography"],
+            "detailsTitle": "Introduction to Digital Photography Final Project: The Color in the Cords",
+            "detailsImages": [
+                {
+                    "image": "Assets/cords5.png",
+                    "orientation": "picture-horizontal",
+                    "caption": "Cords Two",
+                    "subCaption": " "
+                },
+                {
+                    "image": "Assets/remotes_color_contrast.png",
+                    "orientation": "picture-vertical",
+                    "caption": "Remotes One",
+                    "subCaption": " "
+                },
+                {
+                    "image": "Assets/remotes2.png",
+                    "orientation": "picture-horizontal",
+                    "caption": "Remotes Two",
+                    "subCaption": " "
+                },
+                {
+                    "image": "Assets/VGA.png",
+                    "orientation": "picture-horizontal",
+                    "caption": "VGA",
+                    "subCaption": " "
+                }
+                
+            ],
+            "detailsDescription": [
+                {
+                "text": "For my Intro to Digital Photo final project, I wanted to combine my interest in still life with my experiences working in Media Technology Services. I often hear that even with thousands of dollars of presentation technology in each classroom, the overall sentiment towards the tech is neutral or negative. My photographs tried to present it in a way that people on BC's campus haven't seen before, adding a colorful, and hopefully postive twist on technology that is seen as purely a utilitarian tool."
+                }
+            ]
+            
+        },
+        {
+            "id":"whitneyplantation",
+            "title": "Photos from Louisiana",
+            "indexDescription": "The Whitney Plantation, Edgard, LA.",
+            "indexMaterials": null,
+            "indexImage": {
+                    "image": "Assets/whitney_kidsbw.png",
+                    "orientation": "index-image-vertical"
+            },
+            "tags":["Photography", "Travel"],
+            "detailsTitle": "Photos from the Whitney Plantation, Edgard, Louisiana",
+            "detailsImages": [
+                {
+                    "image": "Assets/whitney_kidsbw.png",
+                    "orientation": "picture-vertical",
+                    "caption": "A few of Woodrow Nash's <em>Children of Whitney</em>.",
+                    "subCaption": " "
+                },
+                {
+                    "image": "Assets/whitney_memorial.png",
+                    "orientation": "picture-horizontal",
+                    "caption": "Allées Gwendolyn Midlo Hall",
+                    "subCaption": "'Dedicated to 107,000 people enslaved in Lousisiana documented in the Louisiana Slave Database built by Gwendolyn Midlo Hall' (Whitney Plantation Website)"
+                },
+                {
+                    "image": "Assets/whitney_wall.png",
+                    "orientation": "picture-vertical",
+                    "caption": "Freedom, Education, Family",
+                    "subCaption": " "
+                },
+                {
+                    "image": "Assets/whitney_bighouse.png",
+                    "orientation": "picture-horizontal",
+                    "caption": "The Big House",
+                    "subCaption": " "
+                }
+                
+            ],
+            "detailsDescription": [
+                {
+                "text": "My afternoon tour of the Whitney Plantation was a powerful oportunity to learn more about a truely evil institution and a foundational aspect of American History. Our tour guide's description of the psycology that is put into dividing a population will remain with me for the rest of my life. The imagery of Woodrow Nash's <em>Children of Whitney</em> scupltures will always remind me that power imbalances and oppression need to be activly fought against, being passive will always let them back through the cracks."
+                }
+            ]
+        }
+	]
+}
